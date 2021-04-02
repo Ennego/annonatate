@@ -1,0 +1,5 @@
+---
+canvas: "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=78813"
+order: 3
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "DECORATIVE ART OF SPANISH CALIFORNIA", "purpose": "describing", "creator": {"id": "Ennego", "name": "Ennego"}, "created": "2021-04-02T01:02:34.088Z", "modified": "2021-04-02T01:02:40.516Z"}, {"type": "TextualBody", "value": "label", "purpose": "tagging", "creator": {"id": "Ennego", "name": "Ennego"}, "created": "2021-04-02T01:02:42.398Z", "modified": "2021-04-02T01:02:42.894Z"}], "target": {"source": "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=78813", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:13.510366439819336,4358.09521484375,1023.9740085601807,91.77978515625"}, "dcterms:isPartOf": {"id": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=78813", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/17e112d6-2821-481d-8f7b-0da6980976b7.json"}
