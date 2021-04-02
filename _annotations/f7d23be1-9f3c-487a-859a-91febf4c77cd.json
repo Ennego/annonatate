@@ -1,0 +1,5 @@
+---
+canvas: "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=78813"
+order: 2
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "W.PA. ART PROJECT OF SOUTHERN CALIFORNIA", "purpose": "describing", "creator": {"id": "Ennego", "name": "Ennego"}, "created": "2021-04-02T01:02:10.943Z", "modified": "2021-04-02T01:02:21.062Z"}, {"type": "TextualBody", "value": "label", "purpose": "tagging", "creator": {"id": "Ennego", "name": "Ennego"}, "created": "2021-04-02T01:02:22.890Z", "modified": "2021-04-02T01:02:23.325Z"}], "target": {"source": "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=78813", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:2321.42724609375,4343.6787109375,1105.080078125,92.572265625"}, "dcterms:isPartOf": {"id": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=78813", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/f7d23be1-9f3c-487a-859a-91febf4c77cd.json"}
