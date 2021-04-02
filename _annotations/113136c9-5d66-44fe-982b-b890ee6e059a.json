@@ -1,0 +1,5 @@
+---
+canvas: "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=15104"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Magnus S. Fossum", "purpose": "identifying", "creator": {"id": "Ennego", "name": "Ennego"}, "created": "2021-04-02T01:24:54.195Z", "modified": "2021-04-02T01:25:05.117Z"}, {"type": "TextualBody", "value": "name", "purpose": "tagging", "creator": {"id": "Ennego", "name": "Ennego"}, "created": "2021-04-02T01:25:06.909Z", "modified": "2021-04-02T01:25:07.188Z"}], "target": {"source": "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=15104", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:248.86233520507812,3707.347412109375,421.8181457519531,88.181884765625"}, "dcterms:isPartOf": {"id": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=15104", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/113136c9-5d66-44fe-982b-b890ee6e059a.json"}
