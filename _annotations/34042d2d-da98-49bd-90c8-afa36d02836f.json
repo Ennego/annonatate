@@ -1,0 +1,5 @@
+---
+canvas: "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=19933"
+order: 2
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Chivalry", "purpose": "commenting", "creator": {"id": "Ennego", "name": "Ennego"}, "created": "2021-04-02T01:41:59.232Z", "modified": "2021-04-02T01:42:01.349Z"}], "target": {"source": "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=19933", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:2988.14208984375,1338.77685546875,567.583984375,715.008544921875"}, "dcterms:isPartOf": {"id": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=19933", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/34042d2d-da98-49bd-90c8-afa36d02836f.json"}
