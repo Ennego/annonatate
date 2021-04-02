@@ -1,0 +1,5 @@
+---
+canvas: "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=29089"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Gilbert Sackerman", "purpose": "identifying", "creator": {"id": "Ennego", "name": "Ennego"}, "created": "2021-04-02T01:10:04.843Z", "modified": "2021-04-02T01:10:12.562Z"}, {"type": "TextualBody", "value": "name", "purpose": "tagging", "creator": {"id": "Ennego", "name": "Ennego"}, "created": "2021-04-02T01:10:17.864Z", "modified": "2021-04-02T01:10:26.136Z"}], "target": {"source": "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=29089", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:2286.657958984375,3978.639404296875,634.41845703125,110.231689453125"}, "dcterms:isPartOf": {"id": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=29089", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/3b39e9e7-a5de-4ecd-a27f-81eba4f944ad.json"}
