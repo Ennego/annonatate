@@ -1,0 +1,5 @@
+---
+canvas: "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=19933"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "The Golden Age of Chivalry", "purpose": "describing", "creator": {"id": "Ennego", "name": "Ennego"}, "created": "2021-04-02T01:40:44.294Z", "modified": "2021-04-02T01:40:53.789Z"}], "target": {"source": "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=19933", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:799.9608154296875,1378.0584716796875,1473.5662841796875,812.1810302734375"}, "dcterms:isPartOf": {"id": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=19933", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/db86f2d1-df37-44e2-a19e-e01711ee9e70.json"}
