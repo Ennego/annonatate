@@ -1,0 +1,5 @@
+---
+canvas: "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=26871"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "cat?", "purpose": "commenting", "creator": {"id": "Ennego", "name": "Ennego"}, "created": "2021-04-02T01:27:50.018Z", "modified": "2021-04-02T01:27:53.524Z"}], "target": {"source": "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=26871", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:466.65057373046875,948.2733154296875,2778.1094360351562,1348.6947021484375"}, "dcterms:isPartOf": {"id": "https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=26871", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/d60b3fd8-8316-4445-816c-27c72da01ae5.json"}
